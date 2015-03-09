@@ -1,3 +1,4 @@
+//test
 (function($) {
 
     $.fn.buildingBlock = function(options) {
